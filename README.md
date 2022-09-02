@@ -1,1 +1,1 @@
-# learning-Git
+This is a learning project!
